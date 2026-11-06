@@ -91,8 +91,8 @@ I'm **Vansh Jaiswal**, a developer interested in building full-stack web applica
 ## `github_analytics` 📊
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vanshjaiswal-Dev&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshjaiswal-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" alt="Most used programming languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Vanshjaiswal-Dev&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanshjaiswal-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" alt="Most used programming languages" />
 </div>
 
 <div align="center">
