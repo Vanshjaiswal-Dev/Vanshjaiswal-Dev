@@ -24,7 +24,7 @@
 
 ---
 
-## `whoami` 👨‍💻
+## `who am i` 👨‍💻
 
 I'm **Vansh Jaiswal**, a developer interested in building full-stack web applications — from clean, responsive interfaces to APIs and data-driven backend systems.
 
@@ -33,26 +33,6 @@ I'm **Vansh Jaiswal**, a developer interested in building full-stack web applica
 - ⚙️ I like exploring tools that make applications more useful, reliable, and maintainable.
 - 🤝 Open to collaborating on interesting web development projects.
 
----
-
-## `featured_work` 🚀
-
-<div align="center">
-  <a href="https://github.com/Vanshjaiswal-Dev/QuickGPT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanshjaiswal-Dev&repo=QuickGPT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="QuickGPT repository card" />
-  </a>
-  <a href="https://github.com/Vanshjaiswal-Dev/Code-of-Duty">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanshjaiswal-Dev&repo=Code-of-Duty&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="AutoAlign repository card" />
-  </a>
-</div>
-
-<details>
-  <summary><b>What are these projects?</b></summary>
-  <br />
-
-  - **[QuickGPT](https://github.com/Vanshjaiswal-Dev/QuickGPT)** — A full-stack AI chat application featuring streaming responses, voice input, image generation, chat management, and analytics.
-  - **[AutoAlign / Code-of-Duty](https://github.com/Vanshjaiswal-Dev/Code-of-Duty)** — An AI-assisted resume tailoring project with PDF parsing, keyword analysis, ATS scoring, and a truth-preserving rewrite workflow.
-</details>
 
 ---
 
@@ -99,9 +79,7 @@ I'm **Vansh Jaiswal**, a developer interested in building full-stack web applica
   <img width="65%" src="https://streak-stats.demolab.com?user=Vanshjaiswal-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7DD3FC&fire=A78BFA&currStreakLabel=7DD3FC" alt="GitHub contribution streak" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshjaiswal-Dev&bg_color=0D1117&color=C9D1D9&line=7DD3FC&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
+
 
 ---
 
