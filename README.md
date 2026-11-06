@@ -1,21 +1,124 @@
+<!-- ========================= HERO ========================= -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B17,55:111827,100:312E81&height=230&section=header&text=VANSH%20JAISWAL&fontSize=48&fontColor=E5E7EB&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20WEB%20ENGINEERING&descSize=15&descAlignY=56&animation=twinkling" alt="Vansh Jaiswal profile banner" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-jaiswal-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswalvansh169@gmail.com) 
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;MERN+Stack+%7C+JavaScript+%7C+TypeScript;Building+useful+web+applications;Learning+by+building+and+shipping" alt="Animated typing introduction" />
+  </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vanshjaiswal-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Vanshjaiswal-Dev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vanshjaiswal-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <a href="https://linkedin.com/in/vansh-jaiswal-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jaiswalvansh169@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Vanshjaiswal-Dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vanshjaiswal-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Vanshjaiswal-Dev&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vanshjaiswal-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami` 👨‍💻
+
+I'm **Vansh Jaiswal**, a developer interested in building full-stack web applications — from clean, responsive interfaces to APIs and data-driven backend systems.
+
+- 🔭 I enjoy turning ideas into practical, usable products.
+- 🧠 Currently sharpening my skills in full-stack engineering, problem-solving, and DSA.
+- ⚙️ I like exploring tools that make applications more useful, reliable, and maintainable.
+- 🤝 Open to collaborating on interesting web development projects.
+
+---
+
+## `featured_work` 🚀
+
+<div align="center">
+  <a href="https://github.com/Vanshjaiswal-Dev/QuickGPT">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanshjaiswal-Dev&repo=QuickGPT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="QuickGPT repository card" />
+  </a>
+  <a href="https://github.com/Vanshjaiswal-Dev/Code-of-Duty">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanshjaiswal-Dev&repo=Code-of-Duty&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="AutoAlign repository card" />
+  </a>
+</div>
+
+<details>
+  <summary><b>What are these projects?</b></summary>
+  <br />
+
+  - **[QuickGPT](https://github.com/Vanshjaiswal-Dev/QuickGPT)** — A full-stack AI chat application featuring streaming responses, voice input, image generation, chat management, and analytics.
+  - **[AutoAlign / Code-of-Duty](https://github.com/Vanshjaiswal-Dev/Code-of-Duty)** — An AI-assisted resume tailoring project with PDF parsing, keyword analysis, ATS scoring, and a truth-preserving rewrite workflow.
+</details>
+
+---
+
+## `tech_stack` 🧰
+
+<p align="center"><b>LANGUAGES</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css&perline=7" alt="C, C++, JavaScript, TypeScript, Python, HTML and CSS" />
+</p>
+
+<p align="center"><b>FRONTEND</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=7" alt="React, Next.js, Redux and Tailwind CSS" />
+  <br />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+</p>
+
+<p align="center"><b>BACKEND & DATABASES</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=7" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL and Redis" />
+  <br />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+</p>
+
+<p align="center"><b>CLOUD, DEPLOYMENT & TOOLS</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify,git,github&perline=7" alt="AWS, Firebase, Vercel, Netlify, Git and GitHub" />
+  <br />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111827" alt="Render" />
+</p>
+
+---
+
+## `github_analytics` 📊
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vanshjaiswal-Dev&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshjaiswal-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" alt="Most used programming languages" />
+</div>
+
+<div align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=Vanshjaiswal-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7DD3FC&fire=A78BFA&currStreakLabel=7DD3FC" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshjaiswal-Dev&bg_color=0D1117&color=C9D1D9&line=7DD3FC&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+---
+
+## `contribution_snake.exe` 🐍
+
+<p align="center">A little snake, powered by my GitHub contribution graph. It regenerates automatically every day.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanshjaiswal-Dev/Vanshjaiswal-Dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vanshjaiswal-Dev/Vanshjaiswal-Dev/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/Vanshjaiswal-Dev/Vanshjaiswal-Dev/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+<div align="center">
+  <i>“Great things are built one commit at a time.”</i>
+  <br /><br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,55:111827,100:070B17&height=110&section=footer" alt="Footer wave" />
+</div>
